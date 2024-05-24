@@ -1,4 +1,4 @@
-# blueGravity
+# Blue Gravity
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -11,6 +11,13 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
+
+```sh
+Developer in
+Node version - v20.10.0
+NPM version - 10.4.0
+Vue version - 3.4.21
+```
 
 ```sh
 npm install
